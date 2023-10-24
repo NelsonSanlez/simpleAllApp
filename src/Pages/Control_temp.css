@@ -1,0 +1,104 @@
+
+/* ///////////////////////////////////////
+//////////////////////////////////////////
+//GENERAL// */
+
+.headerDiv,.mainDiv,.footerDiv{
+    border: solid grey 3px;
+    border-radius: 4%;
+    padding: 1rem;
+}
+
+.tempPageContainer{
+    margin: 0;
+    padding: 2rem;
+    background-color: brown;
+}
+
+
+
+
+/* ///////////////////////////////////////
+//////////////////////////////////////////
+//HEADER// */
+
+.headerDiv{
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+    margin: 0;
+}
+
+.imgHeader{
+    min-width: 100px;
+    max-width: 200px;
+    height: auto;
+}
+
+.headerTitleDiv{
+    justify-content: center;
+    padding: 1rem 2rem;
+}
+
+.btnToggle{
+    justify-content: center;
+    white-space: nowrap;     /* isto garante que o texto do botao fica sempre igual */
+    padding: 0.7rem 1rem;
+    border: solid grey 3px;
+    border-radius: 25%;
+}
+
+
+
+/* ///////////////////////////////////////
+//////////////////////////////////////////
+//MAIN// */
+
+.mainDiv{
+    background-color:blue;
+    margin: 0;
+
+}
+
+.btnMais,.btnMenos{
+    padding: 1rem 2rem;
+    border: solid grey 3px;
+    border-radius: 50%;
+}
+
+.btnMais{
+    background-color: crimson;
+}
+
+.btnMenos{
+    background-color:aqua;
+}
+
+
+
+
+
+/* ///////////////////////////////////////
+//////////////////////////////////////////
+//FOOTER// */
+
+.footerDiv{
+    background-color:blueviolet;
+    margin: 0;
+
+}
+
+.img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+  
+
+.imgFooter{
+    min-width: 20vw;
+    max-width: 80vw;
+    height: auto;
+}
+
+
