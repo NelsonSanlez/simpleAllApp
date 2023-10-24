@@ -3,3 +3,7 @@ file for testing commit
 Commits para o gitHub:
 
 git push github_remote
+
+Para Commits para os dois repositorios:
+
+git push github_remote --all
