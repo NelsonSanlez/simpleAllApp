@@ -9,3 +9,12 @@ Para Commits para os dois repositorios:
 git push github_remote --all
 
 AFINAL NÃO DÁ!!!
+
+(Agora fiz git push --all github_remote -u    supostamente faz com que todos os branches sejam pushed bla bla bla...)
+
+
+Ou dá??? porra... se calhar foi só atraso...
+lets try again
+
+faço outra vez:
+git push github_remote --all
