@@ -7,3 +7,5 @@ git push github_remote
 Para Commits para os dois repositorios:
 
 git push github_remote --all
+
+AFINAL NÃO DÁ!!!
