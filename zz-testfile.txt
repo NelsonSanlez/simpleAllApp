@@ -20,3 +20,10 @@ faço outra vez:
 git push github_remote --all
 
 vamos tentar com um script no package.json
+
+
+It fucken WORKED!!!
+
+SCRIPT IS: (see package.json)
+
+npm run pall
